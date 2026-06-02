@@ -1,0 +1,9 @@
+"Patch"
+{
+	include "materials\models\pyrocar\pyrocar_wheels.vmt"
+	
+	insert
+	{
+	"$baseTexture" "models\pyrocar\pyrocar_wheels_yellow"
+	}
+}

@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	$basetexture "models\weapons\c_items\c_spy_silver_watch_cloak_lights_on.vtf"
+	$model 1
+}

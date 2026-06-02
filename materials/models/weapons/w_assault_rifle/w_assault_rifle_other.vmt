@@ -1,0 +1,9 @@
+"Patch"
+{
+	include "materials\models\weapons\w_assault_rifle\w_assault_rifle.vmt"
+	
+	insert
+	{
+	"$baseTexture" "models\weapons\w_assault_rifle\w_assault_rifle_other"
+	}
+}

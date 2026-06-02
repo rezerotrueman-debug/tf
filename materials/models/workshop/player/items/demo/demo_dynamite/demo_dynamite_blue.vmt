@@ -1,0 +1,10 @@
+"Patch"
+{
+	include "materials/models/workshop/player/items/demo/demo_dynamite/demo_dynamite.vmt"
+	
+	insert
+	{
+	"$colortint_base"		"{ 55 75 95 }"
+	"$color2"				"{ 55 75 95 }"
+	}
+}

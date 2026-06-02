@@ -1,0 +1,9 @@
+"Patch"
+{
+	include "materials/models/weapons/c_items/c_pocket_watch.vmt"
+	
+	insert
+	{
+	"$baseTexture" "models/weapons/c_items/c_pocket_watch_yellow"
+	}
+}

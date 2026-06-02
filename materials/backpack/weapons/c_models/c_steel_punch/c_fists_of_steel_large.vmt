@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	"$baseTexture" 	"backpack/weapons/c_models/c_steel_punch/c_fists_of_steel_large"
+	"$translucent"	"1"
+	"$vertexcolor"	"1"
+	"$ignorez"	"1"
+}

@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "custom\ponos_bratva\heal_grenade\weapon\w_grenade_heal_blue"
+	"$bumpmap" "custom\ponos_bratva\heal_grenade\weapon\w_grenade_heal_normal"
+	"$selfillum" "1"
+	"$selfillummask" "custom\ponos_bratva\heal_grenade\weapon\w_grenade_heal_selfillum"
+
+	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost" "2"	
+	"$lightwarptexture" "models\lightwarps\weapon_lightwarp"
+	"$phongfresnelranges" "[0.5 0.75 1]"
+}

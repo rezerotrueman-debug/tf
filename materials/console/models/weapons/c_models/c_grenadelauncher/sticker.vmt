@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"console/models/weapons/c_models/c_grenadelauncher/sticker"
+	"$translucent" 1
+
+	"Proxies"
+	{
+		"WeaponSkin"
+		{
+		}
+	}
+}

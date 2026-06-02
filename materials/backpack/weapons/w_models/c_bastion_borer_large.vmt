@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "backpack/weapons/w_models/c_bastion_borer_large"
+	"$translucent" 1
+}

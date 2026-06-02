@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "backpack/workshop/weapons/c_models/c_primed/c_primed_large"
+	"$translucent" "1"
+	"$vertexcolor" "1"
+}

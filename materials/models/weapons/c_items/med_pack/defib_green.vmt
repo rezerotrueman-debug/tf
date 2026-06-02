@@ -1,0 +1,9 @@
+"Patch"
+{
+	include "materials\models\weapons\c_items\med_pack\defib_red.vmt"
+	
+	insert
+	{
+	"$baseTexture" "models\weapons\c_items\med_pack\defib_green"
+	}
+}

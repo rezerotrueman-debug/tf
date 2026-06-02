@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	$basetexture "models\weapons\c_items\c_spy_silver_watch_misc.vtf"
+	$model 1
+	$translucent 1
+	$nocull 1
+}

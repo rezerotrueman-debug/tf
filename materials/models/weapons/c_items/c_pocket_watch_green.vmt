@@ -1,0 +1,12 @@
+"Patch"
+{
+	include "materials/models/weapons/c_items/c_pocket_watch.vmt"
+	
+	insert
+	{
+//	"$baseTexture" "models/weapons/c_items/c_pocket_watch_blue"
+	"$baseTexture" "models/weapons/c_items/c_pocket_watch_green"
+	"$lightwarptexture" "models/weapons/c_items/c_pocket_watch_silver_lightwarp"
+	"$phongwarptexture"  "models/weapons/c_items/c_pocket_watch_silver_phongwarp"
+	}
+}

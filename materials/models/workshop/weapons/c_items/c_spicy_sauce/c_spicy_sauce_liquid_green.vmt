@@ -1,0 +1,9 @@
+"Patch"
+{
+	include "materials\models/workshop/weapons/c_items/c_spicy_sauce/c_spicy_sauce_liquid.vmt"
+	
+	insert
+	{
+	"$baseTexture" "models/workshop/weapons/c_items/c_spicy_sauce/c_spicy_sauce_green"
+	}
+}

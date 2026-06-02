@@ -1,0 +1,18 @@
+"Patch"
+{
+	include "materials/models/weapons/base.vmt"
+
+	insert
+	{
+	"$basetexture"	"models\weapons\w_dynamite\w_dynamite_blue"
+	"$bumpmap" "models/weapons\w_dynamite\w_dynamite_normal"
+
+	"$phong" "1"
+//	"$phongexponenttexture" "models\weapons\w_dynamite\w_dynamite_exponent"
+	"$phongexponent" "1"
+//	"$phongboost" "0.35"	
+	"$lightwarptexture" "models\weapons\w_dynamite\w_dynamite_lightwarp"
+	"$phongfresnelranges"	"[2 5 10]"
+	"$halflambert" "1"
+	}
+}

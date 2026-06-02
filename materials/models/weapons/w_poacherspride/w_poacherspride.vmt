@@ -1,0 +1,4 @@
+"Patch"
+{
+	include "materials/models/weapons/v_poacherspride/v_poacherspride.vmt"
+}

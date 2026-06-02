@@ -1,0 +1,17 @@
+"Patch"
+{
+	include "materials\models\weapons\c_w_chainsaw\c_w_chain.vmt"
+	
+	insert
+	{
+		"Proxies"
+		{
+			"TextureScroll"
+			{
+				"texturescrollvar" "$basetexturetransform"
+				"texturescrollrate" -7.9
+				"texturescrollangle" 0
+			}
+		}
+	}
+}
