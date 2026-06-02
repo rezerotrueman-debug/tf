@@ -1,0 +1,9 @@
+"Patch"
+{
+	include "materials\models\workshop\weapons\c_models\c_laser_grenade\c_laser_grenade.vmt"
+	
+	insert
+	{
+	"$baseTexture" "models\workshop\weapons\c_models\c_laser_grenade\c_laser_grenade_green"
+	}
+}

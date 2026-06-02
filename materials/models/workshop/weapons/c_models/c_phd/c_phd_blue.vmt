@@ -1,0 +1,9 @@
+"Patch"
+{
+	include "materials/models/workshop/weapons/c_models/c_phd/c_phd.vmt"
+	
+	insert
+	{
+	"$baseTexture" "models/workshop/weapons/c_models/c_phd/c_phd_blue"
+	}
+}

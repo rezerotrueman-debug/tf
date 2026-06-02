@@ -1,0 +1,4 @@
+"Patch"
+{
+	include "materials\props/miku/miku01_tex_blue.vmt"
+}
